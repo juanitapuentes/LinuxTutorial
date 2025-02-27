@@ -23,8 +23,6 @@
    - [VirtualBox](https://www.virtualbox.org)
    - [VMWare](http://www.vmware.com)
 
-## On Android
-   - [JuiceSSH](https://play.google.com/store/apps/details?id=com.sonelli.juicessh&hl=es)
 
 ## On iOS
-   - [Termius](https://itunes.apple.com/co/app/termius/id549039908?mt=8)
+To work with files on iOS, run the necessary commands from your computer’s terminal. Then, use [Cyberduck](https://cyberduck.io/download/) to transfer files between your computer and your iOS device.
